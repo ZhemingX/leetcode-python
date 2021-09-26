@@ -29,7 +29,7 @@ As being a C++ leetcoder for a long time, choose python for leetcode practice lo
 |NO.|Title|Solution|Difficulty|  
 |---|-----|--------|----------|
 |002|[数组中重复的数字][002]|[Solution](./src/array/p1.py)|Easy|
-|003|[二维数组中的查找][003]|[Solution](./src/array/p2.py)|Easy|
+|003|[二维数组中的查找][003]|[Solution](./src/array/p2.py)|Medium|
 
 [0]:https://leetcode-cn.com/problem-list/xb9nqhhg/
 
