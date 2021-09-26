@@ -13,6 +13,7 @@ As being a C++ leetcoder for a long time, choose python for leetcode practice lo
 [- Array](#array)  
 
 </br>
+
 **Solutions:**  
 
 <div id="stack"></div>  
