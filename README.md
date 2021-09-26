@@ -9,22 +9,22 @@ As being a C++ leetcoder for a long time, choose python for leetcode practice lo
 <div id="problem_tag"></div>
 
 **Problem tag:**  
-[Stack](#stack)   
-[Array](#array)  
+[- Stack](#stack)   
+[- Array](#array)  
 
-</br></br>
+</br>
 **Solutions:**  
 
 <div id="stack"></div>  
  
-[Stack](#problem_tag)
+[< Stack](#problem_tag)
 |NO.|Title|Solution|Difficulty|  
 |---|-----|--------|----------|
 |001|[用两个栈实现队列][001]|[Solution](./src/stack/p1.py)|Easy|
 
 <div id="array"></div>  
  
-[Array](#problem_tag)
+[< Array](#problem_tag)
 |NO.|Title|Solution|Difficulty|  
 |---|-----|--------|----------|
 |002|[数组中重复的数字][002]|[Solution](./src/array/p1.py)|Easy|
