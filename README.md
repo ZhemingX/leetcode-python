@@ -13,7 +13,7 @@ As being a C++ leetcoder for a long time, choose python for leetcode practice lo
 **Problem tag:**  
 [- Stack](#stack)   
 [- Array](#array)  
-[- DFS](#dfs)
+[- DFS/BFS](#dfs_bfs)
 
 </br>
 
@@ -39,12 +39,13 @@ As being a C++ leetcoder for a long time, choose python for leetcode practice lo
 [002]:https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/
 [003]:https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/
 
-<div id="dfs"></div>  
+<div id="dfs_bfs"></div>  
  
-[< DFS](#problem_tag)
+[< DFS/BFS](#problem_tag)
 |NO.|Title|Solution|Difficulty|  
 |---|-----|--------|----------|
 |001|[矩阵中的路径][004]|[Solution](./src/dfs/p1.py)|Medium|
+|002|[机器人的运动范围][005]|[Solution](./src/dfs/p2.py)|Medium|
 
 [004]:https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/
-
+[005]:https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/
