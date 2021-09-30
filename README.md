@@ -13,7 +13,8 @@ As being a C++ leetcoder for a long time, choose python for leetcode practice lo
 **Problem tag:**  
 [- Stack](#stack)   
 [- Array](#array)  
-[- DFS/BFS](#dfs_bfs)
+[- DFS/BFS](#dfs_bfs)  
+[- Tree](#tree)
 
 </br>
 
@@ -42,3 +43,9 @@ As being a C++ leetcoder for a long time, choose python for leetcode practice lo
 |001|[矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)|[Solution](./src/dfs/ju-zhen-zhong-de-lu-jing-lcof.py)|Medium|
 |002|[机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)|[Solution](./src/dfs/ji-qi-ren-de-yun-dong-fan-wei-lcof.py)|Medium|
 
+<div id="tree"></div>  
+ 
+[< Tree](#problem_tag)
+|NO.|Title|Solution|Difficulty|  
+|---|-----|--------|----------|
+|001|[重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/)|[Solution](./src/tree/zhong-jian-er-cha-shu-lcof.py)|Medium|
