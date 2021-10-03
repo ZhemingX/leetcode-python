@@ -14,7 +14,7 @@ As being a C++ leetcoder for a long time, choose python for leetcode practice lo
 [- Stack](#stack)   
 [- Array](#array)  
 [- DFS/BFS](#dfs_bfs)  
-[- Tree](#tree)
+[- Tree](#tree)   
 [- Binary_Search](#binary_search)
 
 </br>
