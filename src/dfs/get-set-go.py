@@ -7,18 +7,15 @@ return a boolean indicating if the target could possibly be a sum of list elemen
 # Solution 1
 
 def dfs(lst, target):
-    if target == 0:
-        return True
-    elif len(lst) == 0:
+    if len(lst) == 0:
         return False
     elif lst[0] > target:
         return False
     newList = list(lst)
-    for elem in lst:
-        newList.remove(elem)
-        if target - elem == 0:
+    for i in range(len(newList)):
+        if target - newList[i] == 0:
             return True
-        elif dfs(newList, target - elem):
+        elif dfs(newList[i+1:], target - newList[i]):
             return True
     return False
 
@@ -48,6 +45,6 @@ def isPossible2(calCounts, requiredCals):
     return dfs(calCounts, requiredCals, 0, len(calCounts) - 1)
 
 
-# print(isPossible2([2, 9, 5, 1, 6], 12))
-# print(isPossible2([2, 3, 15, 1, 16], 8))
-# print(isPossible2([1, 3, 4, 5, 6, 7, 8], 11))
+# print(isPossible1([2, 9, 5, 1, 6], 12))
+# print(isPossible1([2, 3, 15, 1, 16], 8))
+# print(isPossible1([1, 3, 4, 5, 6, 7, 8], 11))
