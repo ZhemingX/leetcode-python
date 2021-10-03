@@ -57,4 +57,4 @@ As being a C++ leetcoder for a long time, choose python for leetcode practice lo
 [< Tree](#problem_tag)
 |NO.|Title|Solution|Difficulty|  
 |---|-----|--------|----------|
-|001|[山脉数组中查找目标值](https://leetcode-cn.com/problems/find-in-mountain-array/)|[Solution](./src/binary_search/find-in-mountain-array.py)|Medium|
+|001|[山脉数组中查找目标值](https://leetcode-cn.com/problems/find-in-mountain-array/)|[Solution](./src/binary_search/find-in-mountain-array.py)|Hard|
