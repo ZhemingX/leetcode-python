@@ -42,6 +42,7 @@ As being a C++ leetcoder for a long time, choose python for leetcode practice lo
 |---|-----|--------|----------|
 |001|[矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)|[Solution](./src/dfs/ju-zhen-zhong-de-lu-jing-lcof.py)|Medium|
 |002|[机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)|[Solution](./src/dfs/ji-qi-ren-de-yun-dong-fan-wei-lcof.py)|Medium|
+|003|Get Set Go|[Solution](./src/dfs/get-set-go.py)|Medium|
 
 <div id="tree"></div>  
  
