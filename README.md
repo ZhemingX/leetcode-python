@@ -15,6 +15,7 @@ As being a C++ leetcoder for a long time, choose python for leetcode practice lo
 [- Array](#array)  
 [- DFS/BFS](#dfs_bfs)  
 [- Tree](#tree)
+[- Binary_Search](#binary_search)
 
 </br>
 
@@ -50,3 +51,10 @@ As being a C++ leetcoder for a long time, choose python for leetcode practice lo
 |NO.|Title|Solution|Difficulty|  
 |---|-----|--------|----------|
 |001|[重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/)|[Solution](./src/tree/zhong-jian-er-cha-shu-lcof.py)|Medium|
+
+<div id="binary_search"></div>  
+ 
+[< Tree](#problem_tag)
+|NO.|Title|Solution|Difficulty|  
+|---|-----|--------|----------|
+|001|[山脉数组中查找目标值](https://leetcode-cn.com/problems/find-in-mountain-array/)|[Solution](./src/binary_search/find-in-mountain-array.py)|Medium|
