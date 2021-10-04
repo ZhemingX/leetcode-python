@@ -15,7 +15,8 @@ As being a C++ leetcoder for a long time, choose python for leetcode practice lo
 [- Array](#array)  
 [- DFS/BFS](#dfs_bfs)  
 [- Tree](#tree)   
-[- Binary Search](#binary_search)
+[- Binary Search](#binary_search)  
+[- List/Dict](#list_dict)
 
 </br>
 
@@ -58,3 +59,10 @@ As being a C++ leetcoder for a long time, choose python for leetcode practice lo
 |NO.|Title|Solution|Difficulty|  
 |---|-----|--------|----------|
 |001|[山脉数组中查找目标值](https://leetcode-cn.com/problems/find-in-mountain-array/)|[Solution](./src/binary_search/find-in-mountain-array.py)|Hard|
+
+<div id="list_dfs"></div>
+
+[< List/Dict](#problem_tag)
+|NO.|Title|Solution|Difficulty|  
+|---|-----|--------|----------|
+|001|[点菜展示表](https://leetcode-cn.com/problems/display-table-of-food-orders-in-a-restaurant/)|[Solution](./src/list-dict/display-table-of-food-orders-in-a-restaurant.py)|Medium|
