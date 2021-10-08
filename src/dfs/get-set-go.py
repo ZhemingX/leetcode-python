@@ -48,3 +48,25 @@ def isPossible2(calCounts, requiredCals):
 # print(isPossible1([2, 9, 5, 1, 6], 12))
 # print(isPossible1([2, 3, 15, 1, 16], 8))
 # print(isPossible1([1, 3, 4, 5, 6, 7, 8], 11))
+
+# ---------------------------------- #
+
+# Solution 3
+
+
+def isPossible(calCounts, requiredCals):
+  n = len(calCounts)
+  def dfs(begin, target):
+    if target == 0:
+      return True
+    elif target > 0 and begin < n:
+      for i in range(begin+1, n):
+        if dfs(i, target - calCounts[begin]):
+          return True
+      return False
+    else:
+      return False
+  return dfs(0, requiredCals)
+
+# print(isPossible([2, 9, 5, 1, 6], 12))
+# print(isPossible([2, 3, 15, 1, 16], 8))
