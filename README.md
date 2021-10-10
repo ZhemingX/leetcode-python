@@ -15,8 +15,9 @@ As being a C++ leetcoder for a long time, choose python for leetcode practice lo
 [- Array](#array)  
 [- DFS/BFS](#dfs_bfs)  
 [- Tree](#tree)   
-[- Binary Search](#binary_search)  
-[- List/Dict](#list_dict)
+[- Binary Search](#binary_search)   
+[- List/Dict](#list_dict)  
+[- String](#string) 
 
 </br>
 
@@ -66,3 +67,10 @@ As being a C++ leetcoder for a long time, choose python for leetcode practice lo
 |NO.|Title|Solution|Difficulty|  
 |---|-----|--------|----------|
 |001|[点菜展示表](https://leetcode-cn.com/problems/display-table-of-food-orders-in-a-restaurant/)|[Solution](./src/list-dict/display-table-of-food-orders-in-a-restaurant.py)|Medium|
+
+<div id="string"></div>
+
+[< String](#problem_tag)
+|NO.|Title|Solution|Difficulty|  
+|---|-----|--------|----------|
+|001|[表示数值的字符串](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/)|[Solution](./src/string/biao-shi-shu-zhi-de-zi-fu-chuan-lcof.py)|Medium|
