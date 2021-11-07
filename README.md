@@ -19,6 +19,7 @@ As being a C++ leetcoder for a long time, choose python for leetcode practice lo
 [- List/Dict](#list_dict)  
 [- String](#string)  
 [- DP](#dp)  
+[- Bit Operation](#bit_opt)
 
 </br>
 
@@ -83,3 +84,10 @@ As being a C++ leetcoder for a long time, choose python for leetcode practice lo
 |NO.|Title|Solution|Difficulty|  
 |---|-----|--------|----------|
 |001|[把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/)|[Solution](./src/dp/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.py)|Medium|
+
+<div id="bit_opt"></div>
+
+[< Bit Operation](#problem_tag)
+|NO.|Title|Solution|Difficulty|  
+|---|-----|--------|----------|
+|001|[数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)|[Solution](./src/bit_opt/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof.py)|Medium|
